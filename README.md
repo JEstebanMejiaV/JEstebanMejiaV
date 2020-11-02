@@ -7,6 +7,8 @@
 
 <br />
 
+---
+
 ### Lenguajes y herramientas:
 
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
@@ -23,6 +25,7 @@
 <br />
 <br />
 
+---
 
 <img align="left" alt="Juanes Mejia" src="https://github-readme-stats.vercel.app/api?username=JEstebanMejiaV&show_icons=true&hide_border=true&count_private=true" />
 
