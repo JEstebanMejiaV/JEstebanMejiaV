@@ -21,7 +21,7 @@
 
 <img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/slack.svg" />
 
-<img align="left" alt="aws" width="26px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" />
+<img align="left" alt="aws" width="26px" src="https://www.clipartmax.com/png/middle/195-1955494_aws-simple-icons-aws-cloud-aws-cloud.png" />
 
 
 <br />
