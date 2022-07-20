@@ -1,35 +1,40 @@
-### Juan Esteban Mejía Velásquez - Rigor , Empathy and Fun  👋
+## Juan Esteban Mejía Velásquez - Rigor , Empathy and Fun  👋
 
 
-### Conectate conmigo:
+## Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/juanestebanmejiav/)
+[<img align="left"  width="22px" src="img/linkedin.png" />](https://www.linkedin.com/in/juanestebanmejiav/)
 
 <br />
 
 ---
 
-### Lenguajes y herramientas:
+## Programming Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
 
-<img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/29/29594.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="python" width="26px" src="img/Daco_4428823.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="SQL" width="26px" src="img/sql.png" />
 
-<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/slack.svg" />
+<img align="left" alt="GitHub" width="26px" src="img/github.png" />
 
-<img align="left" alt="aws" width="26px" src="https://img.icons8.com/color/452/amazon-web-services.png" />
+<img align="left" alt="Git" width="26px" src="img/git.png" />
 
+<img align="left" alt="AWS" width="26px" src="img/Non-Service_Specific_copy__AWS_Cloud-512.webp" />
 
 <br />
 <br />
 
----
+<img alt="JEstebanMejiaV langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEstebanMejiaV&theme=gruvbox&hide_title=true&hide_border=true&count_private=true">
 
-<img align="left" alt="Juanes Mejia" src="https://github-readme-stats.vercel.app/api?username=JEstebanMejiaV&show_icons=true&hide_border=true&count_private=true" />
+
+## Github Stats:
+
+<img align="left" alt="Juanes Mejia" src="https://github-readme-stats.vercel.app/api?username=JEstebanMejiaV&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide_title=true" />
+
+
+
 
 <!--
 **JEstebanMejiaV/JEstebanMejiaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
