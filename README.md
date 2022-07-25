@@ -11,19 +11,8 @@
 
 ## Programming Languages and Tools:
 
+[![My Skills](https://skillicons.dev/icons?i=py,aws,git,github,postgres,redis,bash)](https://skillicons.dev)
 
-
-<img align="left" alt="python" width="26px" src="img/Daco_4428823.png" />
-
-<img align="left" alt="SQL" width="26px" src="img/sql.png" />
-
-<img align="left" alt="GitHub" width="26px" src="img/github.png" />
-
-<img align="left" alt="Git" width="26px" src="img/git.png" />
-
-<img align="left" alt="AWS" width="26px" src="img/Non-Service_Specific_copy__AWS_Cloud-512.webp" />
-
-<br />
 <br />
 
 <img alt="JEstebanMejiaV langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEstebanMejiaV&theme=gruvbox&hide_title=true&hide_border=true&count_private=true">
